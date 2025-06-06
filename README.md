@@ -1,2 +1,1 @@
-# Blood-Mall
-Blood Mall Game 
+A simple calculator to solve equations.
